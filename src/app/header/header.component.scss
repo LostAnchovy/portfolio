@@ -1,0 +1,7 @@
+.navbar:not(.top-nav-collapse) {
+    background: transparentize($color: #3f51b5, $amount: 0.6) !important;
+}
+
+.top-nav-collapse {
+    background-color: #3f51b5 !important;
+}
